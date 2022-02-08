@@ -1,12 +1,12 @@
 # Ayman Elkassas 👨‍💻
-[![Twitter Badge](https://img.shields.io/badge/@abu_galala-30302f?style=flat&logo=twitter&logoColor=blue)](https://twitter.com/abu_galala)
-[![Linkedin Badge](https://img.shields.io/badge/mohamedabugalala-30302f?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamedabugalala)
-[![Gmail Badge](https://img.shields.io/badge/mohamed.abugalala@gmai.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:mohamed.abugalala@gmai.com)
+[![Twitter Badge](https://img.shields.io/badge/@ayman-elkassas-30302f?style=flat&logo=twitter&logoColor=blue)](https://twitter.com/aymanelkassas)
+[![Linkedin Badge](https://img.shields.io/badge/aymanelkassas-30302f?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/aymanelkassas)
+[![Gmail Badge](https://img.shields.io/badge/aymanelkassas@mans.edu.eg-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:aymanelkassas@mans.edu.eg)
 
 
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hola there 👋<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">           
 ##### Computer science, Software Engineer with +3 years of experience, interested in building scalable web systems using open source tools, agile methodologies, have a very good experience working with international teams.
-##### Checkout my updated [(CV)](https://github.com/mohamedGamalAbuGalala/mohamedGamalAbuGalala/blob/master/Mohamed&#32;Gamal-&#32;Software&#32;Engineer.pdf)
+##### Checkout my updated [(CV)](Link)
 
 ## 🧐 About
 - 🏄‍ Software Engineer who loves to leave a good impact on people's lives.
@@ -15,12 +15,12 @@
 
 ## ⚡ Technologies
 
-<a href="https://codetrace.com/users/mohamedGamalAbuGalala"><img src="https://codetrace.com/widget/mohamedGamalAbuGalala" width="550" height="120" /></a>
+<a href="https://codetrace.com/users/aymanelkassas"><img src="https://codetrace.com/widget/aymanelkassas" width="550" height="120" /></a>
 
 
-[![Gamal's github stats](https://github-readme-stats.vercel.app/api?username=mohamedGamalAbuGalala&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)]()
+[![Gamal's github stats](https://github-readme-stats.vercel.app/api?username=aymanelkassas&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)]()
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mohamedGamalAbuGalala)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aymanelkassas)
 
 
 <!--
@@ -64,7 +64,7 @@
 -->
 
 <!--
-**mohamedGamalAbuGalala/mohamedGamalAbuGalala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**aymanelkassas/aymanelkassas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
