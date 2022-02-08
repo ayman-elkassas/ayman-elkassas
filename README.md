@@ -10,13 +10,10 @@
 
 ## 🧐 About
 - 🏄‍ Software Engineer who loves to leave a good impact on people's lives.
-- 💻 I'm currently a core team member on many projects (Remotely for a USA company).
+- 💻 I'm currently a core team member on many projects.
 - 👯 I’m looking to collaborate on open source projects.
 
 ## ⚡ Technologies
-
-<a href="https://codetrace.com/users/aymanelkassas"><img src="https://codetrace.com/widget/aymanelkassas" width="550" height="120" /></a>
-
 
 [![Gamal's github stats](https://github-readme-stats.vercel.app/api?username=aymanelkassas&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)]()
 
