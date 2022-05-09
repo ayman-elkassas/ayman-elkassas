@@ -1,6 +1,6 @@
 # Ayman Elkassas 👨‍💻
-[![Twitter Badge](https://img.shields.io/badge/@ayman-elkassas-30302f?style=flat&logo=twitter&logoColor=blue)](https://twitter.com/aymanelkassas)
-[![Linkedin Badge](https://img.shields.io/badge/aymanelkassas-30302f?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/aymanelkassas)
+[![Twitter Badge](https://img.shields.io/badge/@ayman-elkassas-30302f?style=flat&logo=twitter&logoColor=blue)](https://twitter.com/Aymanlkassas)
+[![Linkedin Badge](https://img.shields.io/badge/aymanelkassas-30302f?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayman-elkassas/)
 [![Gmail Badge](https://img.shields.io/badge/aymanelkassas@mans.edu.eg-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:aymanelkassas@mans.edu.eg)
 
 
