@@ -16,7 +16,7 @@ Computer science and Software Engineer with over 5 years of experience. Passiona
 - 💬 Feel free to ask me about anything related to software engineering.
   
 ## 🛠️ Skills and Technologies
-- 🌐 **Web Development**: JavaScript, React, Angular, ReactJs, TypeScript, NodeJs, NestJs, ExpressJs, NextJs, NuxtJs, RemixJs
+- 🌐 **Web Development**: JavaScript, React, ReactJs, TypeScript, NodeJs, NestJs, ExpressJs, NextJs, NuxtJs, RemixJs
 - 📱 **Mobile Development**: Flutter, React Native, Realm
 - 🛢️ **Database Management**: MySQL, PostgreSQL, MongoDB, ElasticSearch
 - 💻 **Programming Languages**: Python, Java, C++, TypeScript
