@@ -1,21 +1,45 @@
 # Ayman Elkassas 👨‍💻
-[![Twitter Badge](https://img.shields.io/badge/@ayman-elkassas-30302f?style=flat&logo=twitter&logoColor=blue)](https://twitter.com/Aymanlkassas)
 [![Linkedin Badge](https://img.shields.io/badge/aymanelkassas-30302f?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayman-elkassas/)
-[![Gmail Badge](https://img.shields.io/badge/aymanelkassas@mans.edu.eg-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:aymanelkassas@mans.edu.eg)
 
-
-# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hola there 👋<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">           
-##### Computer science, Software Engineer with +5 years of experience, interested in building scalable web systems using open source tools, and agile methodologies, have a very good experience working with international teams.
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hi there 👋<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">           
+Computer science and Software Engineer with over 5 years of experience. Passionate about building scalable web systems using open source tools and agile methodologies. Experienced in working with international teams to deliver high-quality software solutions.
 
 ## ⚡ DevCard
 <a href="https://app.daily.dev/aymanelkassas"><img src="https://api.daily.dev/devcards/2422005bd3b946cca94cad2247be391f.png?r=vhg" width="400" alt="Ayman Elkassas's Dev Card"/></a>
 
 ## 🧐 About
-- 🏄‍ Software Engineer who loves to leave a good impact on people's lives.
-- 💻 I'm currently a core team member on many projects.
-- 👯 I’m looking to collaborate on open-source projects.
+- 🏄‍♂️ Software Engineer dedicated to making a positive impact on people's lives.
+- 💻 Currently a core team member on numerous projects.
+- 👯 Eager to collaborate on open-source projects.
+- 🌱 Continuously learning and expanding my knowledge in software development.
+- 🚀 Interested in innovative technologies and scalable solutions.
+- 💬 Feel free to ask me about anything related to software engineering.
+  
+## 🛠️ Skills and Technologies
+## 🛠️ Skills and Technologies
+- 🌐 **Web Development**: JavaScript, React, Angular, ReactJs, TypeScript, NodeJs, NestJs, ExpressJs, NextJs, NuxtJs, RemixJs
+- 📱 **Mobile Development**: Flutter, React Native, Realm
+- 🛢️ **Database Management**: MySQL, PostgreSQL, MongoDB, ElasticSearch
+- 💻 **Programming Languages**: Python, Java, C++, TypeScript
+- 🧰 **Tools and Platforms**: Docker, Kubernetes, Jenkins, GitHub Actions, Google Cloud Platform, RabbitMQ, OAuth, JWT, GraphQL, Restful APIs
+- 🗂️ **Version Control**: Git, GitHub, GitLab
+- 🧪 **Testing and Development**: Test Driven Development, Unit Testing, JEST, CI/CD
+- 📚 **Development Practices**: Scrum, Design Patterns, Problem-Solving Algorithms
 
+## 🔗 Connect with Me
+[![Linkedin Badge](https://img.shields.io/badge/aymanelkassas-30302f?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayman-elkassas/)
+[![Twitter Badge](https://img.shields.io/badge/@aymanelkassas-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/aymanelkassas)
+[![Stack Overflow Badge](https://img.shields.io/badge/aymanelkassas-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/aymanelkassas)
 
-<!-- [![Ayman's github stats](https://github-readme-stats.vercel.app/api?username=ayman-elkassas&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)]() -->
+## 📧 Contact
+- Email: [aymanlkassas@gmail.com](mailto:aymanlkassas@gmail.com)
 
-[My GitHub Skyline](https://skyline.github.com/ayman-elkassas/2023)
+## 🤝 Contributions
+- Open to contributions and collaborations across various projects. Feel free to check out my repositories and suggest improvements or new ideas.
+
+## 📚 Favorites
+- 💡 **Quote**: "The only way to do great work is to love what you do." – Steve Jobs
+- 📘 **Book**: "Clean Code" by Robert C. Martin
+- 🎧 **Podcast**: "Syntax – Tasty Web Development Treats"
+
+Thank you for visiting my profile, and I look forward to connecting with you!
