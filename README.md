@@ -16,9 +16,11 @@ Computer science and Software Engineer with +5 years of experience. Passionate a
 - 💬 Feel free to ask me about anything related to software engineering.
   
 ## 🛠️ Skills and Technologies
+
 - 🌐 **Web Development**: JavaScript, ReactJs, TypeScript, NodeJs, NestJs, ExpressJs, NextJs, NuxtJs, RemixJs
 - 📱 **Mobile Development**: Flutter, React Native, Realm
 - 🛢️ **Database Management**: MySQL, PostgreSQL, MongoDB, ElasticSearch
+- 📦 **Microservices and Architecture**: Service Discovery, API Gateway, Circuit Breaker, Event-Driven Architecture, Containerization, Service Mesh, Load Balancing
 - 💻 **Programming Languages**: Python, Java, C++, TypeScript
 - 🧰 **Tools and Platforms**: Docker, Kubernetes, Jenkins, GitHub Actions, Google Cloud Platform, RabbitMQ, OAuth, JWT, GraphQL, Restful APIs
 - 🗂️ **Version Control**: Git, GitHub, GitLab
