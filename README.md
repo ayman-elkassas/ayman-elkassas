@@ -2,7 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/aymanelkassas-30302f?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayman-elkassas/)
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hi there 👋<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">           
-Computer science and Software Engineer with +5 years of experience. Passionate about building scalable web systems using open source tools and agile methodologies. Experienced in working with international teams to deliver high-quality software solutions.
+Computer science and Software Engineer with +6 years of experience. Passionate about building scalable web systems using open source tools and agile methodologies. Experienced in working with international teams to deliver high-quality software solutions.
 
 ## ⚡ DevCard
 <a href="https://app.daily.dev/aymanelkassas"><img src="https://api.daily.dev/devcards/2422005bd3b946cca94cad2247be391f.png?r=vhg" width="400" alt="Ayman Elkassas's Dev Card"/></a>
